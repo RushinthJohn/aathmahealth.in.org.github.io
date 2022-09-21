@@ -1,2 +1,3 @@
-# aathmahealth.in.org.github.io
-Aathma Health India website repo
+# Aathma Health India website repo
+
+This repo contains Aathma Health India's HTML files.
